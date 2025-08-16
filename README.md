@@ -1,5 +1,4 @@
-# n8n
-n8n Sources
+![n8n](n8n-Logo.png)
 
 ## n8n Community
 - [n8n Community](https://community.n8n.io/)
