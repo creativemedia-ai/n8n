@@ -7,4 +7,4 @@ Welcome to AI Automation Tutorials — your go-to source for no-code automation!
 
 ### Links
 
-[Instagram](https://instagram.com/danish__sofi)
+[Instagram](https://instagram.com/danish__sofi) | [LinkedIn](https://linkedin.com/in/danishshowket) | [Pinterest](https://in.pinterest.com/danishsofi) | [Twitter](https://x.com/danishshowkat)
