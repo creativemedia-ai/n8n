@@ -17,4 +17,4 @@
 - [twitterapi.io](https://twitterapi.io/)
 
 ## Tags
-[n8n-workflow](https://github.com/topics/n8n-workflow) [n8n-automation](https://github.com/topics/n8n-automation) [n8n-template](https://github.com/topics/n8n-template)
+[n8n](https://github.com/topics/n8n) [n8n-workflow](https://github.com/topics/n8n-workflow) [n8n-workflows](https://github.com/topics/n8n-workflows) [n8n-node](https://github.com/topics/n8n-node) [n8n-nodes](https://github.com/topics/n8n-nodes) [n8n-automation](https://github.com/topics/n8n-automation) [n8n-template](https://github.com/topics/n8n-template)
