@@ -12,3 +12,6 @@
 ## AI Agregators
 - [openrouter.ai](https://openrouter.ai/)
 - [together.ai](https://api.together.ai/)
+
+## API
+- [twitterapi.io](https://twitterapi.io/)
