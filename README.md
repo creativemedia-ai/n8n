@@ -17,6 +17,7 @@
 - [together.ai](https://api.together.ai/)
 
 ## API
+- [Gemini API Key](https://aistudio.google.com/) | [Rate Limits & Models](https://ai.google.dev/gemini-api/docs/pricing)
 - [twitterapi.io](https://twitterapi.io/)
 - [Cloudinary](https://cloudinary.com/)
 
